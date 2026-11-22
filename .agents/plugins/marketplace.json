@@ -1,0 +1,20 @@
+{
+  "name": "commute-news",
+  "interface": {
+    "displayName": "Commute News"
+  },
+  "plugins": [
+    {
+      "name": "commute-news",
+      "source": {
+        "source": "local",
+        "path": "./plugins/commute-news"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

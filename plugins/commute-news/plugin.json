@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "commute-news",
+  "version": "0.4.1",
+  "description": "Recommend personal news and publish a daily solo or two-host podcast to local audio and private RSS."
+}
